@@ -1,0 +1,23 @@
+body{
+    background: #b2b2b2;
+}
+#quiz{
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+h1,
+p{
+    color: #000;
+}
+#question{
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-weight: bold; 
+}
+button{
+    padding: 10px 30px;
+}
